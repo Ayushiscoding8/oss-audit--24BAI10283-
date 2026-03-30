@@ -1,7 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 5: OSS vs Proprietary Benchmark Comparison
-# Author: [Your Name]
+# Author: [Ayush Makhija]
+# Reg No.: [24BAI10283]
 # Description: Compares Python (open source) against a proprietary language
 #              runtime on several metrics: startup time, file processing speed,
 #              and availability. Uses timing, loops, and conditional logic
