@@ -1,7 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 2: FOSS Package Inspector
-# Author: [Your Name]
+# Author: [Ayush Makhija]
+# Reg No.: [24BAI10283]
 # Description: Checks whether Python (our chosen OSS project) is installed,
 #              reports its version, displays where it is located, lists
 #              installed pip packages, and checks for available updates.
