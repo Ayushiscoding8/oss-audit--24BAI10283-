@@ -1,7 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 3: License Compliance Checker
-# Author: [Your Name]
+# Author: [Ayush Makhija]
+# Reg No.: [24BAI10283]
 # Description: Reads a directory of text files and searches each one for
 #              known open-source license identifiers. This simulates a basic
 #              compliance audit — checking which license a project uses.
