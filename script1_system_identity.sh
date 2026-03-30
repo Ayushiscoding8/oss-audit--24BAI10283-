@@ -1,7 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 1: System Identity Report
-# Author: [Your Name]
+# Author: [Ayush Makhija]
+# Reg No.: [24BAI10283]
 # Description: Displays a welcome screen showing key information about the
 #              Linux system, including distro, kernel, user, uptime, and
 #              the open-source license that governs the OS.
