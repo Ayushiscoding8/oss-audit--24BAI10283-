@@ -1,7 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 4: FOSS Contribution Tracker
-# Author: [Your Name]
+# Author: [Ayush Makhija]
+# Reg No.: [24BAI10283]
 # Description: Simulates a contribution logger for an open-source project.
 #              Allows a user to log contributions (bug fixes, features,
 #              documentation), view logs, and generate a simple report.
